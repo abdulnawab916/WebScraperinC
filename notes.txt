@@ -1,0 +1,10 @@
+// Extra Notes:
+- 'libcurl' library notes:
+- Really easy to use, getting you connected to a server
+- relatively quick
+- When you initialize a library in C, you must use a pointer 
+- variable because it allows us to have dynamic memory allocation
+- Pointers make it easy when we are managing the libraries state
+- The state refers to the way that the library is used and managed
+- by the program at runtime
+- What is the difference btw Dynamic and Static Libraries?
