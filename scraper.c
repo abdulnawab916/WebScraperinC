@@ -51,6 +51,18 @@ size_t getData(char *buffer, size_t itemSize, size_t nItems, void* ignoreThis){
 }
 
 /*
+TODO:
+- Parse the content of the HTML page, and save it to a file of some sort
+- Allow the user to input the site that they want to parse?
+- This could be used by people that just want to get the text information of a site, 
+- maybe I can throw it into Chat, which can then condense it, and return back a text file to 
+- the user.
+*/
+
+
+
+
+/*
 Resources:
 'Easy Networking in C (libcurl)':
 https://www.youtube.com/watch?v=daA-KBKfJ_o
